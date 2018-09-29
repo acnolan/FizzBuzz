@@ -1,0 +1,31 @@
+<html>
+    <body onload="FizzBuzz()">
+        <div>
+            <ul id=FB></ul>
+        </div>    
+    </body>
+    <script>
+        function FizzBuzz(){
+            var divElement = document.getElementById("FB");
+            for(var i=1;i<101;i++){
+                var flag=0;
+                var toAdd="";
+                if(i%3==0){
+                    toAdd+="Fizz";
+                    flag=1;
+                }
+                if(i%5==0){
+                    toAdd+="Buzz";
+                    flag=1;
+                }
+                if(!flag){
+                    toAdd=i;
+                }
+                var li = document.createElement("li");
+                var text = document.createTextNode(toAdd);
+                li.appendChild(text); 
+                divElement.appendChild(li);
+            }
+        }
+    </script>
+</html>
