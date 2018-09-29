@@ -11,7 +11,7 @@ it is true I wanted to demonstrate that I am one of the 1 in 200 who can
 write it.
 
 I have written a version of FizzBuzz in several different languages:
-Java, C++
+Java, C++, Python
 
 Articles about FizzBuzz:
 https://blog.codinghorror.com/why-cant-programmers-program/
