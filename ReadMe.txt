@@ -1,11 +1,11 @@
 ==========================================================================
 FizzBuzz
 ==========================================================================
-Write a program that prints the numbers from 1 to 100. If it’s a multiple 
-of 3, it should print “Fizz”. If it’s a multiple of 5, it should print 
-“Buzz”. If it’s a multiple of 3 and 5, it should print “FizzBuzz”.
+Write a program that prints the numbers from 1 to 100. If itâ€™s a multiple 
+of 3, it should print â€œFizzâ€. If itâ€™s a multiple of 5, it should print 
+â€œBuzzâ€. If itâ€™s a multiple of 3 and 5, it should print â€œFizzBuzzâ€.
 
-According to some articles online, 199 out of 200 for programming jobs
+According to some articles online, 199 out of 200 applicants for programming jobs
 cannot write code for this. While I believe that may be hyperbole, assuming
 it is true I wanted to demonstrate that I am one of the 1 in 200 who can
 write it.
